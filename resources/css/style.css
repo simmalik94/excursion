@@ -39,3 +39,25 @@ header a {
   color: gray;
   margin-bottom: 20px;
 }
+
+.app img {
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+.app p {
+  font-weight: normal;
+  font-size: 50px;
+}
+
+footer {
+  margin-top: 30px;
+}
+footer a {
+  color: aquamarine;
+  font-size: 16px;
+}
+footer p {
+  padding: 10px 0;
+  text-align: right;
+  color: gray;
+}
